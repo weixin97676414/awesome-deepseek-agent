@@ -35,7 +35,9 @@ macOS is supported by the project; follow the build steps in the [repository REA
 
 9. Click **保存并测试连通性 (Save and test connection)**. The app sends a real request and reports the latency.
 
-![DeepSeek provider settings](assets/soulmate-agent-deepseek-settings.png)
+![DeepSeek provider and model selection](assets/soulmate-agent-deepseek-provider.png)
+
+![DeepSeek capabilities and pricing](assets/soulmate-agent-deepseek-settings.png)
 
 #### 3. Get started
 
