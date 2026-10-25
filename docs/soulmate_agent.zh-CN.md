@@ -35,7 +35,9 @@ macOS 由项目支持，按 [仓库 README](https://github.com/weixin97676414/so
 
 9. 点 **保存并测试连通性**。应用会真实发一次请求并返回延迟。
 
-![DeepSeek 配置](assets/soulmate-agent-deepseek-settings.png)
+![DeepSeek 服务商与模型选择](assets/soulmate-agent-deepseek-provider.png)
+
+![DeepSeek 能力档位与价格设置](assets/soulmate-agent-deepseek-settings.png)
 
 #### 3. 首次运行
 
